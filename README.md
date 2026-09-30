@@ -2,7 +2,6 @@
 
 > Practice interviews with AI agents that read your resume, adapt in real-time, give hints not answers, and score you on professional rubrics.
 
-Built for the **Google Cloud Rapid Agent Hackathon 2026** · MongoDB Partner Track
 
 **Live Demo:** https://hireintos-frontend-856672744274.us-central1.run.app  
 **Backend API:** https://hireintos-backend-856672744274.us-central1.run.app  
@@ -368,9 +367,7 @@ gcloud run deploy hireintos-frontend \
 
 ---
 
-## Team
-
-Built by [sreeram2001](https://github.com/sreeram2001) and [charusnehalr](https://github.com/charusnehalr) for the Google Cloud Rapid Agent Hackathon 2026.
+Built by [sreeram2001](https://github.com/sreeram2001) and [charusnehalr](https://github.com/charusnehalr)
 
 ## License
 
